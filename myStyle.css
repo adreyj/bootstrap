@@ -13,7 +13,7 @@
     height: 30px;
 }
 
-.active{
+.navbar-nav .active{
     border-bottom: #ed8e00 solid 3px;
 }
 
@@ -66,4 +66,19 @@ h1,h2,h3,h4,h5,h6{
     color: white;
     border: none;
     text-transform: uppercase;
+} 
+
+.btn-underlined{
+    padding: 3px 10px;
+    border-bottom: #ed8e00 3px solid;
+    text-decoration: none;
+    color: black;
 }
+
+.btn-black{
+    background-color: black;
+    padding: 2px 20px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+} 
